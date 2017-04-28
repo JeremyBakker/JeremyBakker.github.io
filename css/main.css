@@ -240,7 +240,7 @@ p#summaryParagraph {
   text-align: center;
 }
 
-p.experienceBlurb {
+.experienceBlurb {
   margin-top: 20px;
   margin-bottom: 20px;
   background-color: #fff;
