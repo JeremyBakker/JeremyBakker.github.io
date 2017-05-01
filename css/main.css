@@ -250,6 +250,15 @@ p#summaryParagraph {
   border: solid 1px #AA4C39;
 }
 
+.nestedExperienceBlurb {
+  color: #AA4C39;
+}
+
+.nestedExperienceList{
+  font-size: .9em;
+  line-height: 1.5em;
+}
+
 #education {
   text-align: center;
 }
